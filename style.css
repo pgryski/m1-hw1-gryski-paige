@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display: block;
+  }
+
+body {
+    background-color: lightblue;
+    margin: 5% 15% 5% 15%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 4%;
+}
+
+ul li {
+    display: inline;
+    margin: auto;
+    padding: 4%;
+    color: navy;
+}
+
+/*main*/
+
+main {
+     background-color: white;
+     padding: 3% 4% 3% 4%;
+     margin-bottom: 5%;
+}
+
+h2 {
+    font-size: 2em;
+    color: darkslategray;
+}
+
+h3 {
+    color: darkslategray;
+    font-size: 1em;
+}
+ 
+p {
+    color: darkslategray;
+    font-size: 1em;
+}
+
+/*footer*/
+
+footer {
+    text-align: center;
+}
